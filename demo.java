@@ -4,5 +4,6 @@ public class demo{
     }
     public static void main(String[] args) {
         greet();
+        System.out.println("Hello");
     }
 }
